@@ -1,0 +1,16 @@
+---
+description: 
+globs: *.jsx
+alwaysApply: false
+---
+## Design & Copywriting Guidelines
+
+- Language: Indonesia (Main)
+
+- **UI/UX:** Adhere to principles similar to the Gojek design system: clean layouts, clear typography, intuitive navigation (bottom bar), prominent call-to-action buttons. Use whitespace effectively.
+
+- **Color Palette:** Utilize a simple, friendly color palette. Primary actions should use a distinct, encouraging color.
+
+- **Iconography:** Fontawesome, heroicons,
+
+- **Copywriting:** Employ a friendly, direct, and encouraging tone, often incorporating common Indonesian phrases where appropriate for the context (even if the UI text is primarily English, the _style_ reflects this). Examples: "Yuk, mulai jualan!" (Come on, let's start selling!), "Transaksi berhasil disimpan!" (Transaction saved successfully!). Error messages should be helpful and guide the user. All user-facing Indonesian text will have a corresponding English translation that maintains this style. Use clear and concise language suitable for an international audience while retaining the original Gojek-inspired feel where possible.
